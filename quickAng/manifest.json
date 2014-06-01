@@ -1,0 +1,12 @@
+{
+  "name": "QuickAng",
+  "version": "0.1",
+  "minimum_chrome_version": "30.0",
+  "description": "Puts scope and isolated scope for selected DOM element as $s and $is respectively",
+  "devtools_page": "devtools.html",
+  "permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "manifest_version": 2
+}
