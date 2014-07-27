@@ -4,6 +4,9 @@
   "minimum_chrome_version": "30.0",
   "description": "Puts scope and isolated scope for selected DOM element as $s and $is respectively",
   "devtools_page": "devtools.html",
+  "background": {
+    "scripts": ["background.js"]
+  },
   "permissions": [
     "http://*/*",
     "https://*/*"
